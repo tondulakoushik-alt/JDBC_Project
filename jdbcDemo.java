@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.Scanner;
 
-public class H2JDBCDemo {
+public class jdbcDemo {
 
     private static final String JDBC_URL = "jdbc:h2:./candy";
     private static final String USER = "sa";
